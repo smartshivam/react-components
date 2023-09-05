@@ -1,0 +1,24 @@
+{
+  "name": "react-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartshivam/react-components.git"
+  },
+  "author": "shivam pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smartshivam/react-components/issues"
+  },
+  "homepage": "https://github.com/smartshivam/react-components#readme",
+  "devDependencies": {
+    "@types/react": "^18.2.21",
+    "react": "^18.2.0",
+    "typescript": "^5.2.2"
+  }
+}
